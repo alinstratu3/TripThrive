@@ -36,5 +36,5 @@ Aplicația nu necesită configurări suplimentare.
 
 Codul sursă al aplicației este disponibil pe GitHub:
 
-https://github.com/Radukutz1/TripThrive
+https://github.com/alinstratu3/TripThrive
 
